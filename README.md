@@ -1,2 +1,2 @@
 # nibodh_educare
-Education initiative web interface
+Education initiative web application build in J2EE
